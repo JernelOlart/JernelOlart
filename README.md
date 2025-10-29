@@ -11,7 +11,12 @@ Apasionado por la **automatización, seguridad informática y desarrollo de sist
 > “Lo que puede imaginarse, puede programarse.” ✨
 
 ---
-
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block"> 🐍 Contributions Graph </h2></summary>
+  </ul>
+</div>
 
 
 ### ⚙️ Tecnologías y Herramientas
