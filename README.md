@@ -50,8 +50,8 @@ Apasionado por la **automatización, seguridad informática y desarrollo de sist
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elian-olart&show_icons=true&theme=radical&hide_border=true" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=elian-olart&theme=radical&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=jernelolart&show_icons=true&theme=radical&hide_border=true" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jernelolartt&theme=radical&hide_border=true" height="165">
 </p>
 
 ---
