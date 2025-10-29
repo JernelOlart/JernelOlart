@@ -35,11 +35,11 @@ Apasionado por la **automatización, seguridad informática y desarrollo de sist
 
 - **Backend:** PHP · Python · Node.js  
 - **Frontend:** HTML5 · CSS3 · JavaScript (ES6+) · Bootstrap · FullCalendar  
-- **Bases de datos:** MySQL · MariaDB  
+- **Bases de datos:** MySQL · MariaDB, PosgreSQL, SQLite.
 - **Redes:** Cisco · VLANs · TCP/IP · DHCP · Fortinet  
-- **DevOps:** Railway · Git · GitHub Actions  
+- **DevOps:** Railway · Git · GitHub Actions  Git Versións
 - **Sistemas:** Windows Server · Linux · macOS  
-- **Otros:** VBA · Wireshark · PowerShell · SAP · Filmora
+- **Otros:** VBA · Wireshark · PowerShell · SAP · Filmora, Photoshop, Corel Draw
 
 ---
 
