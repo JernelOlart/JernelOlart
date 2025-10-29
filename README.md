@@ -14,15 +14,15 @@ Apasionado por la **automatización, seguridad informática y desarrollo de sist
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block"> 📈 My GitHub Contributions </h2></summary>
+    <summary><h2 style="display: inline-block"> 📈 GitHub Contributions </h2></summary>
   </ul>
 </div>
 
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=IDGS-901-22001379&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=JernelOlart&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=IDGS-901-22001379&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JernelOlart&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </div>
 
 ---
@@ -36,7 +36,7 @@ Apasionado por la **automatización, seguridad informática y desarrollo de sist
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/IDGS-901-22001379/IDGS-901-22001379/output/snake-github-dark.svg" alt="Snake Game"/>
+  <img src="https://raw.githubusercontent.com/JernelOlart/JernelOlart/output/snake-github-dark.svg" alt="Snake Game"/>
 </p>
 
 
@@ -67,15 +67,6 @@ Apasionado por la **automatización, seguridad informática y desarrollo de sist
 - **Sistemas:** Windows Server · Linux · macOS  
 - **Otros:** VBA · Wireshark · PowerShell · SAP · Filmora, Photoshop, Corel Draw
 
----
-
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jernelolart&show_icons=true&theme=radical&hide_border=true" height="165">
-
-
----
 
 ### 📫 Contacto
 
