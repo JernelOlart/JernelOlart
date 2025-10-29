@@ -1,9 +1,19 @@
  <h1 align="center">👋 ¡Hi! I am... <span style="color:#9E329E;">Elian Hernández Olarte</span></h1>
 <h3 align="center">💻 Ingeniero en Tecnologías de la Información y Full Stack Developer</h3>
 
+---
+
+### 🧩 Consola de habilidades
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9E329E&center=true&vCenter=true&width=600&lines=Software+Developer;Ingeniero+en+Telecomunicaciones;Desarrollo+Web+%26+ERP;Ciberseguridad+%26+Automatización;Lo+que+puede+imaginarse+puede+programarse" alt="Typing Animation" />
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=~$%20skills%20--show%20Elian&width=800&height=140&color1=9E329E&color2=1E1E1E" alt="Terminal Banner"/>
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=9E329E&center=true&vCenter=true&width=700&lines=🟢+>+php%20-v;🟢+>+python%20--version;🟢+>+node%20app.js;🟢+>+git%20commit%20-m+'Innovation';🟢+>+deploy%20--to%20railway;🟢+>+echo+'Full+Stack+Complete!'" alt="Console Skills" />
+</p>
+
+---
 
 ---
 
