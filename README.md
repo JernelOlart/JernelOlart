@@ -20,7 +20,7 @@ Apasionado por la **automatización, seguridad informática y desarrollo de sist
 
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=JernelOlart&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=JernelOlart&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </div>
