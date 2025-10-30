@@ -48,12 +48,10 @@ Apasionado por la **automatización, seguridad informática y desarrollo de sist
 
 ---
 
-### 🔒 Certificaciones
+### 🔒 Otras Certificaciones
 
 - 🧩 **CCNAv7** – Redes empresariales, seguridad y automatización (Cisco Networking Academy, 2022)  
-- ⚙️ **Diseño de TR, Aparejo y Liner** – NovaOil Training (2023)  
-- 🌊 **Sistemas Submarinos en Aguas Profundas** – NovaOil Training (2023)  
-- 💧 **Recuperación mejorada por inyección de agua** – NovaOil Training (2023)
+
 
 ---
 
