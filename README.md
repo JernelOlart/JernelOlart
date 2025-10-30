@@ -1,12 +1,12 @@
  <h1 align="center">👋 ¡Hi! I am... <span style="color:#9E329E;">Elian Hernández Olarte</span></h1>
-<h3 align="center">💻 Ingeniero en Tecnologías de la Información y Full Stack Developer</h3>
+<h3 align="center">💻 Information Technology Engineer and Full Stack Developer</h3>
 
 ---
 
 ### 🧠 Sobre mí
 
- **Ingeniero en Tecnologías de la Información y Comunicación** con 4 años de experiencia combinando el desarrollo de software, administración de redes y soporte técnico.  
-Apasionado por la **automatización, seguridad informática y desarrollo de sistemas ERP**, siempre busco mejorar procesos mediante soluciones tecnológicas eficientes.
+ **Information and Communication Technologies Engineer with 4 years of experience combining software development, network administration, and technical support.  
+Passionate about automation, cybersecurity, and ERP systems development, always seeking to improve processes through efficient technological solutions..
 
 > “Lo que puede imaginarse, puede programarse.” ✨
 
