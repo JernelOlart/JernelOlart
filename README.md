@@ -1,75 +1,64 @@
- <h1 align="center">👋 ¡Hi! I am... <span style="color:#9E329E;">Elian Hernández Olarte</span></h1>
-<h3 align="center">💻 Information Technology Engineer and Full Stack Developer</h3>
+<h1 align="center">👋 Hi! I’m <span style="color:#9E329E;">Elian Hernández Olarte</span></h1>
+<h3 align="center">💻 Information Technology Engineer & Full Stack Developer</h3>
 
 ---
 
-### 🧠 Sobre mí
+### 🧠 About Me
 
- **Information and Communication Technologies Engineer with 4 years of experience combining software development, network administration, and technical support.  
-Passionate about automation, cybersecurity, and ERP systems development, always seeking to improve processes through efficient technological solutions..
+**Information and Communication Technologies Engineer** with 4 years of experience combining **software development, network administration, and technical support**.  
+Passionate about **automation, cybersecurity, and ERP system development**, always striving to improve processes through efficient technological solutions.
 
-> “Lo que puede imaginarse, puede programarse.” ✨
+> “If it can be imagined, it can be programmed.” ✨
 
 ---
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block"> 📈 GitHub Contributions </h2></summary>
-  </ul>
-</div>
 
+### 📈 GitHub Contributions
 
 <div align="center">
-
-  <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=JernelOlart&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </div>
 
 ---
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block"> 🐍 A Snake Eating my Contributions Graph </h2></summary>
-  </ul>
-</div>
 
-
+### 🐍 A Snake Eating My Contributions Graph
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/JernelOlart/JernelOlart/output/snake-github-dark.svg" alt="Snake Game"/>
 </p>
 
+---
 
-### ⚙️ Tecnologías y Herramientas
+### ⚙️ Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,python,js,html,css,bootstrap,nodejs,mysql,linux,git,github,vscode,docker,react,laravel,flask" />
+  <img src="https://skillicons.dev/icons?i=php,python,js,html,css,bootstrap,nodejs,react,electron,sqlite,mysql,linux,git,github,vscode,docker,laravel,flask" />
 </p>
 
 ---
 
-### 🔒 Otras Certificaciones
+### 🧩 Certifications
 
-- 🧩 **CCNAv7** – Redes empresariales, seguridad y automatización (Cisco Networking Academy, 2022)  
-
+- **CCNAv7** – Enterprise Networking, Security and Automation (Cisco Networking Academy, 2022)
 
 ---
 
-### 🧰 Habilidades Técnicas
+### 🧰 Technical Skills
 
 - **Backend:** PHP · Python · Node.js  
-- **Frontend:** HTML5 · CSS3 · JavaScript (ES6+) · Bootstrap · FullCalendar  
-- **Bases de datos:** MySQL · MariaDB, PosgreSQL, SQLite.
-- **Redes:** Cisco · VLANs · TCP/IP · DHCP · Fortinet  
-- **DevOps:** Railway · Git · GitHub Actions  Git Versións
-- **Sistemas:** Windows Server · Linux · macOS  
-- **Otros:** VBA · Wireshark · PowerShell · SAP · Filmora, Photoshop, Corel Draw
+- **Frontend:** HTML5 · CSS3 · JavaScript (ES6+) · Bootstrap · React  
+- **Desktop Apps:** **Electron + React + SQLite** (offline-first point of sale & management systems)  
+- **Databases:** MySQL · MariaDB · PostgreSQL · SQLite  
+- **Networks:** Cisco · VLANs · TCP/IP · DHCP · Fortinet  
+- **DevOps:** Railway · Docker · Git · GitHub Actions · CI/CD  
+- **Operating Systems:** Windows Server · Linux · macOS  
+- **Other Tools:** VBA · Wireshark · PowerShell · SAP · Filmora · Photoshop · Corel Draw  
 
+---
 
-### 📫 Contacto
+### 📫 Contact
 
 <p align="center">
-  <a href="mailto:jernelx7@gmail.com"><img src="https://img.shields.io/badge/Correo-9E329E?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:jernelx7@gmail.com"><img src="https://img.shields.io/badge/Email-9E329E?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/elian-olart"><img src="https://img.shields.io/badge/LinkedIn-9E329E?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
