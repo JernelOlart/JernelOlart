@@ -2,6 +2,10 @@
 <h3 align="center">💻 Information Technology Engineer & Full Stack Developer</h3>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9E329E&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Software+Engineer;Network+Administrator;Automation+Enthusiast" alt="Typing SVG" />
+</p>
+
+<p align="center">
   <img src="https://profile-net-jernelolart.vercel.app/Bluev2JernelOlartSuministros.png" alt="Jernel Olart Systems Logo" width="200px"/>
 </p>
 
