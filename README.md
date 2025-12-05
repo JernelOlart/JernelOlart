@@ -9,7 +9,7 @@
   <img src="https://profile-net-jernelolart.vercel.app/Bluev2JernelOlartSuministros.png" alt="Jernel Olart Systems Logo" width="200px"/>
 </p>
 
-<h4 align="center">Founder of <span style="color:#9E329E;">Jernel Olart Systems</span></h4>
+<h4 align="center">Founder of <span style="color:#9E329E;">Jernel Systems</span></h4>
 
 ---
 
