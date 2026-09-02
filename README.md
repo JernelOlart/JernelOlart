@@ -20,7 +20,7 @@
 </p>
 
 <h4 align="center">
-  🚀 Founder & Developer at <span style="color:#9E329E;">Jernel Systems</span>
+  🚀 Founder & Developer at Jernel Systems
 </h4>
 
 <p align="center">
@@ -36,17 +36,9 @@
 
 I'm an **Information and Communication Technologies Engineer** and **Full Stack Developer** with experience in software development, IT infrastructure, network administration, technical support, and business process automation.
 
-My primary focus is building **modern, scalable, and practical software solutions**, from web applications and business management systems to desktop applications and automated workflows.
+My primary focus is building **modern, scalable, and practical software solutions**, ranging from web applications and business management systems to desktop applications and automated workflows.
 
-I'm particularly interested in:
-
-* 💻 Full Stack Development
-* ⚙️ Business Process Automation
-* 🏢 ERP & Management Systems
-* 🖥️ Desktop Applications
-* 🌐 Network & IT Infrastructure
-* 🔐 Cybersecurity
-* 🤖 AI Integrations & Automation
+I'm passionate about technology and continuously exploring new ways to improve processes through efficient and innovative solutions.
 
 > *"If it can be imagined, it can be programmed."* ✨
 
@@ -54,50 +46,11 @@ I'm particularly interested in:
 
 ## 🔭 Currently Working On
 
-* 🏥 Improving **Clínica Racing**, a medical management platform for football teams.
-* 💼 Developing ERP and business automation solutions through **Jernel Systems**.
-* 🖥️ Building offline-first desktop applications with **Electron + React + SQLite**.
-* 🤖 Exploring AI integrations and workflow automation.
-* ⚙️ Creating efficient technological solutions that simplify business processes.
-
----
-
-## 🚀 Featured Projects
-
-### 🏥 Clínica Racing
-
-A medical management platform designed to improve the administration and monitoring of football players.
-
-**Main Features:**
-
-* 👨‍⚕️ Player medical records
-* 📅 Appointment scheduling
-* 🏃 Injury monitoring
-* 📊 Medical expense analytics
-* 📝 Clinical and physiotherapy notes
-* 📄 PDF & Excel reports
-* 📧 Email notifications
-* 📆 Interactive calendar management
-
-**Tech Stack:**
-
-`PHP` · `MySQL` · `Bootstrap` · `JavaScript` · `FullCalendar` · `Chart.js` · `Docker`
-
----
-
-### 💼 Jernel Systems
-
-Technology solutions focused on improving business operations through software development and automation.
-
-**Areas:**
-
-* 🏢 ERP Systems
-* 🛒 POS & Management Systems
-* ⚙️ Business Process Automation
-* 🖥️ Desktop Applications
-* 🌐 Web Applications
-* 🗄️ Database Management
-* 🤖 AI & Workflow Integrations
+- 💼 Developing software and automation solutions through **Jernel Systems**.
+- 🖥️ Building modern web and desktop applications.
+- ⚙️ Exploring business process automation and workflow optimization.
+- 🤖 Integrating AI into practical software solutions.
+- 🌐 Improving IT infrastructure and technology-driven processes.
 
 ---
 
@@ -133,7 +86,7 @@ MySQL · MariaDB · PostgreSQL · SQLite
 
 ---
 
-### 🌐 Networks & Infrastructure
+### 🌐 Networks & IT Infrastructure
 
 Cisco · VLANs · TCP/IP · DHCP · Fortinet · Network Administration · IT Infrastructure
 
@@ -157,39 +110,6 @@ VBA · Wireshark · PowerShell · SAP · Filmora · Photoshop · CorelDRAW
 
 ---
 
-## 📈 GitHub Statistics
-
-<div align="center">
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=JernelOlart&show_icons=true&theme=tokyonight&hide_border=true"
-alt="GitHub Stats"
-/>
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=JernelOlart&layout=compact&theme=tokyonight&hide_border=true"
-alt="Top Languages"
-/>
-
-</div>
-
----
-
-## ⚡ Contribution Activity
-
-<div align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=JernelOlart&theme=tokyo-night&hide_border=true"
-alt="GitHub Contribution Activity"
-/>
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
@@ -198,10 +118,12 @@ alt="GitHub Contribution Activity"
       media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/JernelOlart/JernelOlart/output/snake-github-dark.svg"
     />
+
     <source
       media="(prefers-color-scheme: light)"
       srcset="https://raw.githubusercontent.com/JernelOlart/JernelOlart/output/snake-github.svg"
     />
+
     <img
       alt="GitHub Contribution Snake"
       src="https://raw.githubusercontent.com/JernelOlart/JernelOlart/output/snake-github-dark.svg"
@@ -216,8 +138,8 @@ alt="GitHub Contribution Activity"
 <div align="center">
 
 <img
-src="https://github-profile-trophy.vercel.app/?username=JernelOlart&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"
-alt="GitHub Trophies"
+  src="https://github-profile-trophy.vercel.app/?username=JernelOlart&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"
+  alt="GitHub Trophies"
 />
 
 </div>
@@ -226,8 +148,7 @@ alt="GitHub Trophies"
 
 ## 🧩 Certifications
 
-* 🎓 **CCNAv7 – Enterprise Networking, Security and Automation**
-
+- 🎓 **CCNAv7 – Enterprise Networking, Security and Automation**  
   Cisco Networking Academy · 2022
 
 ---
@@ -270,7 +191,7 @@ alt="GitHub Trophies"
 </p>
 
 <h3 align="center">
-  🚀 Building solutions. Automating processes. Creating technology.
+  🚀 Building solutions · Automating processes · Creating technology
 </h3>
 
 <p align="center">
